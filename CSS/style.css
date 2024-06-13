@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.text-cel {
+    background-color: #f9f9f9;
+}
+
+.image-cel img {
+    max-width: 100%;
+    height: auto;
+}
+#cel1 { background-color: #ffcccc; }
+#cel2 { background-color: #ccffcc; }
+#cel3 { background-color: #ccccff; }
+#cel4 { background-color: #ffffcc; }
+#cel5 { background-color: #ffccff; }
+#cel6 { background-color: #ccffff; }
+#cel7 { background-color: #ffcc99; }
+#cel8 { background-color: #99ccff; }
+#cel9 { background-color: #cc99ff; }
+#cel10 { background-color: #99ffcc; }
+#cel11 { background-color: #ff9966; }
+#cel12 { background-color: #66ccff; }
+#cel13 { background-color: #cc99cc; }
+#cel14 { background-color: #99ff99; }
+#cel15 { background-color: #8ce3f5; }
+#cel16 { background-color: #6699ff; }
+
+.woord1 { background-color: yellow; color: black; }
+.woord2 { background-color: lightgreen; color: black; }
+.woord3 { background-color: lightblue; color: black; }
+.woord4 { background-color: orange; color: black; }
+.woord5 { background-color: violet; color: black; }
+.woord6 { background-color: cyan; color: black; }
+.woord7 { background-color: peachpuff; color: black; }
+.woord8 { background-color: pink; color: black; }
+
